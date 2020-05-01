@@ -1,0 +1,58 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\capss\\numberguesser\\numberguesser.csproj": {}
+  },
+  "projects": {
+    "C:\\capss\\numberguesser\\numberguesser.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\capss\\numberguesser\\numberguesser.csproj",
+        "projectName": "numberguesser",
+        "projectPath": "C:\\capss\\numberguesser\\numberguesser.csproj",
+        "packagesPath": "C:\\Users\\CatsAreMLG\\.nuget\\packages\\",
+        "outputPath": "C:\\capss\\numberguesser\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\CatsAreMLG\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

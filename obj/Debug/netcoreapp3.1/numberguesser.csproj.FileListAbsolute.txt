@@ -1,0 +1,13 @@
+C:\capss\numberguesser\bin\Debug\netcoreapp3.1\numberguesser.exe
+C:\capss\numberguesser\bin\Debug\netcoreapp3.1\numberguesser.deps.json
+C:\capss\numberguesser\bin\Debug\netcoreapp3.1\numberguesser.runtimeconfig.json
+C:\capss\numberguesser\bin\Debug\netcoreapp3.1\numberguesser.runtimeconfig.dev.json
+C:\capss\numberguesser\bin\Debug\netcoreapp3.1\numberguesser.dll
+C:\capss\numberguesser\bin\Debug\netcoreapp3.1\numberguesser.pdb
+C:\capss\numberguesser\obj\Debug\netcoreapp3.1\numberguesser.csprojAssemblyReference.cache
+C:\capss\numberguesser\obj\Debug\netcoreapp3.1\numberguesser.csproj.CoreCompileInputs.cache
+C:\capss\numberguesser\obj\Debug\netcoreapp3.1\numberguesser.AssemblyInfoInputs.cache
+C:\capss\numberguesser\obj\Debug\netcoreapp3.1\numberguesser.AssemblyInfo.cs
+C:\capss\numberguesser\obj\Debug\netcoreapp3.1\numberguesser.dll
+C:\capss\numberguesser\obj\Debug\netcoreapp3.1\numberguesser.pdb
+C:\capss\numberguesser\obj\Debug\netcoreapp3.1\numberguesser.genruntimeconfig.cache
